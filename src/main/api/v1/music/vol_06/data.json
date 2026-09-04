@@ -1,0 +1,52 @@
+[
+  {
+    "base_url": "/pop-s02-music-bank-remote-data-source/api/v1/music/vol_06/",
+    "music_title": "less",
+    "music_url": "less.mp3"
+  },
+  {
+    "base_url": "/pop-s02-music-bank-remote-data-source/api/v1/music/vol_06/",
+    "music_title": "let_her_go",
+    "music_url": "let_her_go.mp3"
+  },
+  {
+    "base_url": "/pop-s02-music-bank-remote-data-source/api/v1/music/vol_06/",
+    "music_title": "livin_on_a_prayer",
+    "music_url": "livin_on_a_prayer.mp3"
+  },
+  {
+    "base_url": "/pop-s02-music-bank-remote-data-source/api/v1/music/vol_06/",
+    "music_title": "lose_control",
+    "music_url": "lose_control.mp3"
+  },
+  {
+    "base_url": "/pop-s02-music-bank-remote-data-source/api/v1/music/vol_06/",
+    "music_title": "love_me_not",
+    "music_url": "love_me_not.mp3"
+  },
+  {
+    "base_url": "/pop-s02-music-bank-remote-data-source/api/v1/music/vol_06/",
+    "music_title": "lovely",
+    "music_url": "lovely.mp3"
+  },
+  {
+    "base_url": "/pop-s02-music-bank-remote-data-source/api/v1/music/vol_06/",
+    "music_title": "maggots_for_brains",
+    "music_url": "maggots_for_brains.mp3"
+  },
+  {
+    "base_url": "/pop-s02-music-bank-remote-data-source/api/v1/music/vol_06/",
+    "music_title": "manchild",
+    "music_url": "manchild.mp3"
+  },
+  {
+    "base_url": "/pop-s02-music-bank-remote-data-source/api/v1/music/vol_06/",
+    "music_title": "messy",
+    "music_url": "messy.mp3"
+  },
+  {
+    "base_url": "/pop-s02-music-bank-remote-data-source/api/v1/music/vol_06/",
+    "music_title": "my_way",
+    "music_url": "my_way.mp3"
+  }
+]

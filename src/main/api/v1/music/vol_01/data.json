@@ -1,0 +1,52 @@
+[
+  {
+    "base_url": "/pop-s02-music-bank-remote-data-source/api/v1/music/vol_01/",
+    "music_title": "a_thousand_years",
+    "music_url": "a_thousand_years.mp3"
+  },
+  {
+    "base_url": "/pop-s02-music-bank-remote-data-source/api/v1/music/vol_01/",
+    "music_title": "abracadabra",
+    "music_url": "abracadabra.mp3"
+  },
+  {
+    "base_url": "/pop-s02-music-bank-remote-data-source/api/v1/music/vol_01/",
+    "music_title": "apt",
+    "music_url": "apt.mp3"
+  },
+  {
+    "base_url": "/pop-s02-music-bank-remote-data-source/api/v1/music/vol_01/",
+    "music_title": "as_it_was",
+    "music_url": "as_it_was.mp3"
+  },
+  {
+    "base_url": "/pop-s02-music-bank-remote-data-source/api/v1/music/vol_01/",
+    "music_title": "august",
+    "music_url": "august.mp3"
+  },
+  {
+    "base_url": "/pop-s02-music-bank-remote-data-source/api/v1/music/vol_01/",
+    "music_title": "austin_boots_stop_workin",
+    "music_url": "austin_boots_stop_workin.mp3"
+  },
+  {
+    "base_url": "/pop-s02-music-bank-remote-data-source/api/v1/music/vol_01/",
+    "music_title": "back_to_friends",
+    "music_url": "back_to_friends.mp3"
+  },
+  {
+    "base_url": "/pop-s02-music-bank-remote-data-source/api/v1/music/vol_01/",
+    "music_title": "beanie",
+    "music_url": "beanie.mp3"
+  },
+  {
+    "base_url": "/pop-s02-music-bank-remote-data-source/api/v1/music/vol_01/",
+    "music_title": "begged",
+    "music_url": "begged.mp3"
+  },
+  {
+    "base_url": "/pop-s02-music-bank-remote-data-source/api/v1/music/vol_01/",
+    "music_title": "birds_of_a_feather",
+    "music_url": "birds_of_a_feather.mp3"
+  }
+]

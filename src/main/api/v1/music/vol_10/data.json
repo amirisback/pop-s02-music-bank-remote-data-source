@@ -1,0 +1,42 @@
+[
+  {
+    "base_url": "/pop-s02-music-bank-remote-data-source/api/v1/music/vol_10/",
+    "music_title": "viva_la_vida",
+    "music_url": "viva_la_vida.mp3"
+  },
+  {
+    "base_url": "/pop-s02-music-bank-remote-data-source/api/v1/music/vol_10/",
+    "music_title": "we_cant_be_friends_wait_for_your_love",
+    "music_url": "we_cant_be_friends_wait_for_your_love.mp3"
+  },
+  {
+    "base_url": "/pop-s02-music-bank-remote-data-source/api/v1/music/vol_10/",
+    "music_title": "what_was_i_made_for",
+    "music_url": "what_was_i_made_for.mp3"
+  },
+  {
+    "base_url": "/pop-s02-music-bank-remote-data-source/api/v1/music/vol_10/",
+    "music_title": "whats_wrong_with_me",
+    "music_url": "whats_wrong_with_me.mp3"
+  },
+  {
+    "base_url": "/pop-s02-music-bank-remote-data-source/api/v1/music/vol_10/",
+    "music_title": "who",
+    "music_url": "who.mp3"
+  },
+  {
+    "base_url": "/pop-s02-music-bank-remote-data-source/api/v1/music/vol_10/",
+    "music_title": "wih_lit",
+    "music_url": "wih_lit.mp3"
+  },
+  {
+    "base_url": "/pop-s02-music-bank-remote-data-source/api/v1/music/vol_10/",
+    "music_title": "willow",
+    "music_url": "willow.mp3"
+  },
+  {
+    "base_url": "/pop-s02-music-bank-remote-data-source/api/v1/music/vol_10/",
+    "music_title": "yellow",
+    "music_url": "yellow.mp3"
+  }
+]

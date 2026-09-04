@@ -1,0 +1,52 @@
+[
+  {
+    "base_url": "/pop-s02-music-bank-remote-data-source/api/v1/music/vol_08/",
+    "music_title": "sparks",
+    "music_url": "sparks.mp3"
+  },
+  {
+    "base_url": "/pop-s02-music-bank-remote-data-source/api/v1/music/vol_08/",
+    "music_title": "stargazing",
+    "music_url": "stargazing.mp3"
+  },
+  {
+    "base_url": "/pop-s02-music-bank-remote-data-source/api/v1/music/vol_08/",
+    "music_title": "stay_with_me",
+    "music_url": "stay_with_me.mp3"
+  },
+  {
+    "base_url": "/pop-s02-music-bank-remote-data-source/api/v1/music/vol_08/",
+    "music_title": "stupid_song",
+    "music_url": "stupid_song.mp3"
+  },
+  {
+    "base_url": "/pop-s02-music-bank-remote-data-source/api/v1/music/vol_08/",
+    "music_title": "style",
+    "music_url": "style.mp3"
+  },
+  {
+    "base_url": "/pop-s02-music-bank-remote-data-source/api/v1/music/vol_08/",
+    "music_title": "summertime_sadness",
+    "music_url": "summertime_sadness.mp3"
+  },
+  {
+    "base_url": "/pop-s02-music-bank-remote-data-source/api/v1/music/vol_08/",
+    "music_title": "symphony",
+    "music_url": "symphony.mp3"
+  },
+  {
+    "base_url": "/pop-s02-music-bank-remote-data-source/api/v1/music/vol_08/",
+    "music_title": "taste",
+    "music_url": "taste.mp3"
+  },
+  {
+    "base_url": "/pop-s02-music-bank-remote-data-source/api/v1/music/vol_08/",
+    "music_title": "tears",
+    "music_url": "tears.mp3"
+  },
+  {
+    "base_url": "/pop-s02-music-bank-remote-data-source/api/v1/music/vol_08/",
+    "music_title": "thats_so_true",
+    "music_url": "thats_so_true.mp3"
+  }
+]

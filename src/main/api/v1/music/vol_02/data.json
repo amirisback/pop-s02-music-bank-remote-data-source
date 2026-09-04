@@ -1,0 +1,52 @@
+[
+  {
+    "base_url": "/pop-s02-music-bank-remote-data-source/api/v1/music/vol_02/",
+    "music_title": "blank_space",
+    "music_url": "blank_space.mp3"
+  },
+  {
+    "base_url": "/pop-s02-music-bank-remote-data-source/api/v1/music/vol_02/",
+    "music_title": "blinding_lights",
+    "music_url": "blinding_lights.mp3"
+  },
+  {
+    "base_url": "/pop-s02-music-bank-remote-data-source/api/v1/music/vol_02/",
+    "music_title": "busy_woman",
+    "music_url": "busy_woman.mp3"
+  },
+  {
+    "base_url": "/pop-s02-music-bank-remote-data-source/api/v1/music/vol_02/",
+    "music_title": "cardigan",
+    "music_url": "cardigan.mp3"
+  },
+  {
+    "base_url": "/pop-s02-music-bank-remote-data-source/api/v1/music/vol_02/",
+    "music_title": "champagne_problems",
+    "music_url": "champagne_problems.mp3"
+  },
+  {
+    "base_url": "/pop-s02-music-bank-remote-data-source/api/v1/music/vol_02/",
+    "music_title": "cornelia_street",
+    "music_url": "cornelia_street.mp3"
+  },
+  {
+    "base_url": "/pop-s02-music-bank-remote-data-source/api/v1/music/vol_02/",
+    "music_title": "cruel_summer",
+    "music_url": "cruel_summer.mp3"
+  },
+  {
+    "base_url": "/pop-s02-music-bank-remote-data-source/api/v1/music/vol_02/",
+    "music_title": "daisies",
+    "music_url": "daisies.mp3"
+  },
+  {
+    "base_url": "/pop-s02-music-bank-remote-data-source/api/v1/music/vol_02/",
+    "music_title": "deja_vu",
+    "music_url": "deja_vu.mp3"
+  },
+  {
+    "base_url": "/pop-s02-music-bank-remote-data-source/api/v1/music/vol_02/",
+    "music_title": "die_on_this_hill",
+    "music_url": "die_on_this_hill.mp3"
+  }
+]

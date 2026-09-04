@@ -1,0 +1,52 @@
+[
+  {
+    "base_url": "/pop-s02-music-bank-remote-data-source/api/v1/music/vol_04/",
+    "music_title": "flowers",
+    "music_url": "flowers.mp3"
+  },
+  {
+    "base_url": "/pop-s02-music-bank-remote-data-source/api/v1/music/vol_04/",
+    "music_title": "fortnight",
+    "music_url": "fortnight.mp3"
+  },
+  {
+    "base_url": "/pop-s02-music-bank-remote-data-source/api/v1/music/vol_04/",
+    "music_title": "glimpse_of_us",
+    "music_url": "glimpse_of_us.mp3"
+  },
+  {
+    "base_url": "/pop-s02-music-bank-remote-data-source/api/v1/music/vol_04/",
+    "music_title": "golden",
+    "music_url": "golden.mp3"
+  },
+  {
+    "base_url": "/pop-s02-music-bank-remote-data-source/api/v1/music/vol_04/",
+    "music_title": "golden_hour",
+    "music_url": "golden_hour.mp3"
+  },
+  {
+    "base_url": "/pop-s02-music-bank-remote-data-source/api/v1/music/vol_04/",
+    "music_title": "good_luck_babe",
+    "music_url": "good_luck_babe.mp3"
+  },
+  {
+    "base_url": "/pop-s02-music-bank-remote-data-source/api/v1/music/vol_04/",
+    "music_title": "greedy",
+    "music_url": "greedy.mp3"
+  },
+  {
+    "base_url": "/pop-s02-music-bank-remote-data-source/api/v1/music/vol_04/",
+    "music_title": "hate_that_i_made_you_love_me",
+    "music_url": "hate_that_i_made_you_love_me.mp3"
+  },
+  {
+    "base_url": "/pop-s02-music-bank-remote-data-source/api/v1/music/vol_04/",
+    "music_title": "honeybee",
+    "music_url": "honeybee.mp3"
+  },
+  {
+    "base_url": "/pop-s02-music-bank-remote-data-source/api/v1/music/vol_04/",
+    "music_title": "i_just_might",
+    "music_url": "i_just_might.mp3"
+  }
+]

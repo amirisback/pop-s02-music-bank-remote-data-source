@@ -1,0 +1,52 @@
+[
+  {
+    "base_url": "/pop-s02-music-bank-remote-data-source/api/v1/music/vol_07/",
+    "music_title": "opalite",
+    "music_url": "opalite.mp3"
+  },
+  {
+    "base_url": "/pop-s02-music-bank-remote-data-source/api/v1/music/vol_07/",
+    "music_title": "ordinary",
+    "music_url": "ordinary.mp3"
+  },
+  {
+    "base_url": "/pop-s02-music-bank-remote-data-source/api/v1/music/vol_07/",
+    "music_title": "pink_pony_club",
+    "music_url": "pink_pony_club.mp3"
+  },
+  {
+    "base_url": "/pop-s02-music-bank-remote-data-source/api/v1/music/vol_07/",
+    "music_title": "please_please_please",
+    "music_url": "please_please_please.mp3"
+  },
+  {
+    "base_url": "/pop-s02-music-bank-remote-data-source/api/v1/music/vol_07/",
+    "music_title": "poetry_of_us",
+    "music_url": "poetry_of_us.mp3"
+  },
+  {
+    "base_url": "/pop-s02-music-bank-remote-data-source/api/v1/music/vol_07/",
+    "music_title": "purple",
+    "music_url": "purple.mp3"
+  },
+  {
+    "base_url": "/pop-s02-music-bank-remote-data-source/api/v1/music/vol_07/",
+    "music_title": "risk_it_all",
+    "music_url": "risk_it_all.mp3"
+  },
+  {
+    "base_url": "/pop-s02-music-bank-remote-data-source/api/v1/music/vol_07/",
+    "music_title": "sailor_song",
+    "music_url": "sailor_song.mp3"
+  },
+  {
+    "base_url": "/pop-s02-music-bank-remote-data-source/api/v1/music/vol_07/",
+    "music_title": "shallow",
+    "music_url": "shallow.mp3"
+  },
+  {
+    "base_url": "/pop-s02-music-bank-remote-data-source/api/v1/music/vol_07/",
+    "music_title": "someone_like_you",
+    "music_url": "someone_like_you.mp3"
+  }
+]

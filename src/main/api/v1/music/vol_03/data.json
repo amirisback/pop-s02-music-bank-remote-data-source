@@ -1,0 +1,52 @@
+[
+  {
+    "base_url": "/pop-s02-music-bank-remote-data-source/api/v1/music/vol_03/",
+    "music_title": "die_with_a_smile",
+    "music_url": "die_with_a_smile.mp3"
+  },
+  {
+    "base_url": "/pop-s02-music-bank-remote-data-source/api/v1/music/vol_03/",
+    "music_title": "dont_say_you_love_me",
+    "music_url": "dont_say_you_love_me.mp3"
+  },
+  {
+    "base_url": "/pop-s02-music-bank-remote-data-source/api/v1/music/vol_03/",
+    "music_title": "drop_dead",
+    "music_url": "drop_dead.mp3"
+  },
+  {
+    "base_url": "/pop-s02-music-bank-remote-data-source/api/v1/music/vol_03/",
+    "music_title": "easy_on_me",
+    "music_url": "easy_on_me.mp3"
+  },
+  {
+    "base_url": "/pop-s02-music-bank-remote-data-source/api/v1/music/vol_03/",
+    "music_title": "elizabeth_taylor",
+    "music_url": "elizabeth_taylor.mp3"
+  },
+  {
+    "base_url": "/pop-s02-music-bank-remote-data-source/api/v1/music/vol_03/",
+    "music_title": "end_of_beginning",
+    "music_url": "end_of_beginning.mp3"
+  },
+  {
+    "base_url": "/pop-s02-music-bank-remote-data-source/api/v1/music/vol_03/",
+    "music_title": "espresso",
+    "music_url": "espresso.mp3"
+  },
+  {
+    "base_url": "/pop-s02-music-bank-remote-data-source/api/v1/music/vol_03/",
+    "music_title": "exile",
+    "music_url": "exile.mp3"
+  },
+  {
+    "base_url": "/pop-s02-music-bank-remote-data-source/api/v1/music/vol_03/",
+    "music_title": "expectations",
+    "music_url": "expectations.mp3"
+  },
+  {
+    "base_url": "/pop-s02-music-bank-remote-data-source/api/v1/music/vol_03/",
+    "music_title": "father_figure",
+    "music_url": "father_figure.mp3"
+  }
+]
